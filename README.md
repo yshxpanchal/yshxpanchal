@@ -3,11 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="wave"/>
 </h1>
 
-<h3 align="left">Cybersecurity Student · SOC Analyst Track · Networking</h3>
-
-<br>
-
----
 
 ## 🧑‍💻 A Little About Me
 
@@ -17,7 +12,6 @@ I'm passionate about **defensive security, network analysis, and threat detectio
 
 My goal is to grow into a **SOC Analyst / Blue Team Engineer** role.
 
----
 
 ## 🧠 My Knowledge Base
 
@@ -47,6 +41,8 @@ My goal is to grow into a **SOC Analyst / Blue Team Engineer** role.
 | **Design & Simulation** | Subnetting · Cisco Packet Tracer |
 
 ### 🔧 Tools & Stack
+
+---
 
 <table>
   <tr>
@@ -85,6 +81,8 @@ My goal is to grow into a **SOC Analyst / Blue Team Engineer** role.
 
 ### 📬 Connect With Me
 
+---
+
 <table>
   <tr>
     <td align="center">
@@ -112,16 +110,28 @@ My goal is to grow into a **SOC Analyst / Blue Team Engineer** role.
 
 ---
 
-## 📈 Contribution Snapshot
+<details>
+<summary><b>📈 Contribution Snapshot</b></summary>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=R00T-AN0N&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=1BA0D7&icon_color=1BA0D7&text_color=8b949e" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R00T-AN0N&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=1BA0D7&text_color=8b949e" alt="Top Languages"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=R00T-AN0N&hide_border=true&theme=transparent&ring=1BA0D7&fire=1BA0D7&currStreakLabel=1BA0D7&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=R00T-AN0N&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=1BA0D7&icon_color=1BA0D7&text_color=8b949e" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R00T-AN0N&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=1BA0D7&text_color=8b949e" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com?user=R00T-AN0N&hide_border=true&theme=transparent&ring=1BA0D7&fire=1BA0D7&currStreakLabel=1BA0D7&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <br>
 
