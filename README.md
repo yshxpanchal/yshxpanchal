@@ -86,7 +86,7 @@ My goal is to grow into a **SOC Analyst / Blue Team Engineer** role.
       </a>
     </td>
     <td align="center">
-      <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+      <a href="https://tryhackme.com/p/Yshx">
         <img width="48" height="48" src="https://api.iconify.design/simple-icons:tryhackme.svg?color=%23C11111" alt="TryHackMe"/>
       </a>
     </td>
