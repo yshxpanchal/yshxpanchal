@@ -59,22 +59,12 @@ My goal is to grow into a **SOC Analyst / Blue Team Engineer** role.
       <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
-    </td>
+<img 
+  src="https://skillicons.dev/icons?i=java&theme=dark" 
+  alt="Java Skill Icon"
+/>    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/>
     </td>
   </tr>
 </table>
